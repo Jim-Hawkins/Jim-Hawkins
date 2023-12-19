@@ -5,7 +5,7 @@
 
 ### Encuéntrame en:
 
-[![Linkedin de Sergio](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/sergio-gil-nova-arquitecto-sw/)
+[![Linkedin de Sergio](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg)](https://www.linkedin.com/in/sergio-gil-nova-arquitecto-sw/)
 <!--a href="https://linkedin.com/in/carlos-chato-hidalgo-sw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-chato-hidalgo-sw" height="30" width="40" /></a-->
 
 
