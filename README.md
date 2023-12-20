@@ -9,7 +9,7 @@
 
 ### 💬 Lenguajes de programación:
 
-[![Badge python](https://img.shields.io/badge/Python-000000?logo=python&style=for-the-badge)](https://www.python.org)
+[![Badge python](https://img.shields.io/badge/Python-F4E800?logo=python&style=for-the-badge)](https://www.python.org)
 [![Badge bash](https://img.shields.io/badge/GNU_Bash-000000?logo=gnubash&style=for-the-badge)](https://www.gnu.org/software/bash/)
 [![Badge c](https://img.shields.io/badge/C_Language-101010?logo=c&style=for-the-badge)](https://www.cprogramming.com/)
 [![Badge c++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&style=for-the-badge)](https://cplusplus.com/doc/tutorial/)
