@@ -7,6 +7,8 @@
 
 <a href="https://www.linkedin.com/in/sergio-gil-nova-arquitecto-sw/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin de Sergio" width="40" height="30" /></a>
 
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/sergio-gil-nova-arquitecto-sw/)
+
 ### 💬 Lenguajes de programación:
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org) | [<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />](https://www.gnu.org/software/bash/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://www.cprogramming.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://cplusplus.com/doc/tutorial/)
@@ -21,7 +23,7 @@ Estos son algunos de mis lenguajes de programación top. Pero, sabiendo programa
 :---:|:---:
 SpringBoot | Flutter
 
-Me encanta usar frameworks porque poner la base para dejar volar la imaginación y construir grandes proyectos.
+Me encanta usar frameworks porque ponen la base para dejar volar tu imaginación y construir grandes proyectos.
 
 ### 🛠️ Herramientas:
 
