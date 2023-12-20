@@ -9,14 +9,23 @@
 
 ### 💬 Lenguajes de programación:
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> | <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a> | <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> | <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> | <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-:---:|:---:|:---:|:---:|:---:
-python|bash|c|c++|c#
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org)
+| [<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />](https://www.gnu.org/software/bash/) 
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>] (https://www.cprogramming.com/)
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://cplusplus.com/doc/tutorial/)
+:---:|:---:|:---:|:---:
+Python|Bash|C|C++
+
+Estos son algunos de mis lenguajes de programación top. Pero, sabiendo programar en el sentido amplio de la palabra, puedo enfrentarmer a cualquier otro lenguaje 💪
 
 ### 🖼️ Frameworks:
 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+[<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>](https://spring.io/projects/spring-boot)
+| [<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>](https://flutter.dev)
+:---:|:---:
+SpringBoot | Flutter
+
+Me encanta usar frameworks porque poner la base para dejar volar la imaginación y construir grandes proyectos.
 
 ### 🛠️ Herramientas:
 
