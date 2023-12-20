@@ -13,8 +13,8 @@
 [![Badge bash](https://img.shields.io/badge/GNU_Bash-000000?logo=gnubash&style=for-the-badge)](https://www.gnu.org/software/bash/)
 [![Badge dart](https://img.shields.io/badge/Dart-005090?logo=dart&style=for-the-badge)](https://dart.dev/)
 [![Badge javascript](https://img.shields.io/badge/Javascript-000000?logo=javascript&style=for-the-badge)](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-[![Badge bash](https://img.shields.io/badge/GNU_Bash-000000?logo=gnubash&style=for-the-badge)](https://www.gnu.org/software/bash/)
-[![Badge bash](https://img.shields.io/badge/GNU_Bash-000000?logo=gnubash&style=for-the-badge)](https://www.gnu.org/software/bash/)
+[![Badge java](https://img.shields.io/badge/Java-000000?logo=java&style=for-the-badge)](https://dev.java/)
+[![Badge ](https://img.shields.io/badge/GNU_Bash-000000?logo=gnubash&style=for-the-badge)]()
 [![Badge c](https://img.shields.io/badge/C_Language-101010?logo=c&style=for-the-badge)](https://www.cprogramming.com/)
 [![Badge c++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&style=for-the-badge)](https://cplusplus.com/doc/tutorial/)
 
