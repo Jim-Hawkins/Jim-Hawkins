@@ -5,9 +5,7 @@
 
 ### 📫 Encuéntrame en:
 
-<a href="https://www.linkedin.com/in/sergio-gil-nova-arquitecto-sw/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin de Sergio" width="40" height="30" /></a>
-
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/sergio-gil-nova-arquitecto-sw/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-gil-nova-arquitecto-sw/)
 
 ### 💬 Lenguajes de programación:
 
