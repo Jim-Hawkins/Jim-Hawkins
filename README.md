@@ -11,7 +11,7 @@
 
 [![Badge python](https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge)](https://www.python.org)
 [![Badge bash](https://img.shields.io/badge/GNU_Bash-000000?logo=gnubash&style=for-the-badge)](https://www.gnu.org/software/bash/)
-[![Badge c](https://img.shields.io/badge/C-A8B9CC?logo=c&style=for-the-badge)](https://www.cprogramming.com/)
+[![Badge c](https://img.shields.io/badge/C-A8B9CC?logo=gnubash&style=for-the-badge)](https://www.cprogramming.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://cplusplus.com/doc/tutorial/)
 
 
