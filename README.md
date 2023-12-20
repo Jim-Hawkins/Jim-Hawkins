@@ -9,6 +9,14 @@
 
 ![Badge](https://img.shields.io/badge/GNU_Bash-000000?logo=gnubash)
 
+![Badge](https://img.shields.io/badge/GNU_Bash-000000?logo=gnubash&style=flat-square)
+
+![Badge](https://img.shields.io/badge/GNU_Bash-000000?logo=gnubash&style=for-the-badge)
+
+![Badge](https://img.shields.io/badge/GNU_Bash-000000?logo=gnubash&style=plastic)
+
+![Badge](https://img.shields.io/badge/GNU_Bash-000000?logo=gnubash&style=social)
+
 ### 💬 Lenguajes de programación:
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org) | [<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />](https://www.gnu.org/software/bash/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://www.cprogramming.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://cplusplus.com/doc/tutorial/)
