@@ -58,8 +58,8 @@ Estas dos hay que lanzarlas en un servidor personal. Si no, solo muestran las es
 
 ---
 
-###### ¿Quieres iconos SVG? Chequea esta [página](https://icons8.com)
-hola
+¿Quieres iconos SVG? Chequea la página de [icons8](https://icons8.com)
+
 <!--
 **Jim-Hawkins/Jim-Hawkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
