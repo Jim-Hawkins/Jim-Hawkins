@@ -11,6 +11,11 @@
 
 [![Badge python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=F4E800&style=for-the-badge)](https://www.python.org)
 [![Badge bash](https://img.shields.io/badge/GNU_Bash-000000?logo=gnubash&style=for-the-badge)](https://www.gnu.org/software/bash/)
+[![Badge dart](https://img.shields.io/badge/Dart-000000?logo=dart&style=for-the-badge)](https://dart.dev/)
+[![Badge javascript](https://img.shields.io/badge/Javascript-000000?logo=javascript&style=for-the-badge)](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+[![Badge bash](https://img.shields.io/badge/GNU_Bash-000000?logo=gnubash&style=for-the-badge)](https://www.gnu.org/software/bash/)
+[![Badge bash](https://img.shields.io/badge/GNU_Bash-000000?logo=gnubash&style=for-the-badge)](https://www.gnu.org/software/bash/)
+[![Badge bash](https://img.shields.io/badge/GNU_Bash-000000?logo=gnubash&style=for-the-badge)](https://www.gnu.org/software/bash/)
 [![Badge c](https://img.shields.io/badge/C_Language-101010?logo=c&style=for-the-badge)](https://www.cprogramming.com/)
 [![Badge c++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&style=for-the-badge)](https://cplusplus.com/doc/tutorial/)
 
