@@ -41,11 +41,13 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jim-Hawkins&show_icons=true&locale=en&layout=compact" alt="Jim-Hawkins" /></p>
+### Mis estadísticas
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jim-Hawkins&show_icons=true&locale=en" alt="Jim-Hawkins" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jim-Hawkins&show_icons=true&locale=en&layout=compact" alt="Jim-Hawkins" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jim-Hawkins&theme=sea&fire=orange" alt="Jim-Hawkins" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jim-Hawkins&show_icons=true&locale=en" alt="Jim-Hawkins" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jim-Hawkins&theme=sea&fire=orange" alt="Jim-Hawkins" />
 
 
 <!--
