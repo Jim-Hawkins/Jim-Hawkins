@@ -7,7 +7,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-gil-nova-arquitecto-sw/)
 
-![Badge](https://img.shields.io/badge/bash-4EAA25?logo=gnubash)
+![Badge](https://img.shields.io/badge/bash-000000?logo=gnubash)
 
 ### 💬 Lenguajes de programación:
 
