@@ -12,7 +12,10 @@
 <span color="#0f0">hola</span>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="color:inherit"> <span style="color:#0f0;font-size:110%;text-decoration:none">$</span><span style="font-size:110%">_</span><!--img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/--> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <span style="color:#0f0;font-size:110%;text-decoration:none">$</span><span style="font-size:110%">_</span><!--img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/--> </a> 
+
+[$_](https://www.gnu.org/software/bash/)
+
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -43,11 +46,11 @@
 
 ### Mis estadísticas
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jim-Hawkins&show_icons=true&locale=en&layout=compact" alt="Jim-Hawkins" />
+<!--img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jim-Hawkins&show_icons=true&locale=en&layout=compact" alt="Jim-Hawkins" />
+Estas dos hay que lanzarlas en un servidor personal. Si no, solo muestran las estadísticas públicas.
+<img src="https://github-readme-stats.vercel.app/api?username=Jim-Hawkins&show_icons=true&locale=en" alt="Jim-Hawkins" /-->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jim-Hawkins&show_icons=true&locale=en" alt="Jim-Hawkins" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jim-Hawkins&theme=sea&fire=orange" alt="Jim-Hawkins" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jim-Hawkins&theme=sea&fire=orange" alt="Jim-Hawkins" />
 
 
 <!--
