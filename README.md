@@ -45,7 +45,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jim-Hawkins&show_icons=true&locale=en" alt="Jim-Hawkins" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jim-Hawkins&" alt="Jim-Hawkins" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jim-Hawkins&theme=sea&fire=orange" alt="Jim-Hawkins" /></p>
 
 
 <!--
