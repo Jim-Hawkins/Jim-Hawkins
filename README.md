@@ -55,8 +55,9 @@ Me encanta usar frameworks porque ponen la base para dejar volar tu imaginación
 Estas dos hay que lanzarlas en un servidor personal. Si no, solo muestran las estadísticas públicas.
 <img src="https://github-readme-stats.vercel.app/api?username=Jim-Hawkins&show_icons=true&locale=en" alt="Jim-Hawkins" /-->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jim-Hawkins&theme=sea&fire=orange" alt="Jim-Hawkins" />
+![Jim-Hawkins streak](https://github-readme-streak-stats.herokuapp.com/?user=Jim-Hawkins&theme=sea&fire=orange)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jim-Hawkins&theme=tokyonight)
 
 ---
 
