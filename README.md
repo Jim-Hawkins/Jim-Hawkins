@@ -57,7 +57,7 @@ Estas dos hay que lanzarlas en un servidor personal. Si no, solo muestran las es
 
 ![Jim-Hawkins streak](https://github-readme-streak-stats.herokuapp.com/?user=Jim-Hawkins&theme=sea&fire=orange)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jim-Hawkins&hide=cmake&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jim-Hawkins&hide=cmake,makefile&theme=tokyonight)
 
 ---
 
